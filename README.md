@@ -1,5 +1,7 @@
 # SemaMerge
 
+<!-- mcp-name: io.github.vineethwilson15/semamerge -->
+
 [![npm version](https://img.shields.io/npm/v/semamerge.svg)](https://www.npmjs.com/package/semamerge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![semamerge MCP server](https://glama.ai/mcp/servers/vineethwilson15/semamerge/badges/score.svg)](https://glama.ai/mcp/servers/vineethwilson15/semamerge)

@@ -1,6 +1,7 @@
 {
   "name": "semamerge",
-  "version": "0.1.0",
+  "version": "0.1.2",
+  "mcpName": "io.github.vineethwilson15/semamerge",
   "description": "MCP server that detects semantic (non-textual) merge conflicts between Git branches using AST-level analysis",
   "type": "module",
   "main": "dist/index.js",
