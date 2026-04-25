@@ -12,7 +12,7 @@ const parser = new ParserManager();
 
 const server = new McpServer({
   name: 'semamerge',
-  version: '0.1.1',
+  version: '0.1.2',
 });
 
 // Tool: check_merge_safety
