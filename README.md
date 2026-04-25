@@ -2,6 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/semamerge.svg)](https://www.npmjs.com/package/semamerge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![semamerge MCP server](https://glama.ai/mcp/servers/vineethwilson15/semamerge/badges/score.svg)](https://glama.ai/mcp/servers/vineethwilson15/semamerge)
 
 An MCP (Model Context Protocol) server that detects **semantic merge conflicts** between Git branches using AST-level analysis.
 
