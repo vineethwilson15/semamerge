@@ -33,7 +33,7 @@ npm install -g semamerge
 Or clone and build from source:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/semamerge.git
+git clone https://github.com/vineethwilson15/semamerge.git
 cd semamerge
 npm install
 npm run build
